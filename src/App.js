@@ -10,6 +10,7 @@ function App() {
         <br />
         <SearchEngine />
       </div>
+      <small>Project in progress. Coded by Viktoriia K, <a href="https://github.com/Victoria123654/weather-app.git">Github</a></small>
     </div>
   );
 }
